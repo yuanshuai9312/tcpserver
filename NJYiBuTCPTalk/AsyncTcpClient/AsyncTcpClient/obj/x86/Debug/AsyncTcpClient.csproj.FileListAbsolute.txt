@@ -1,0 +1,14 @@
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\bin\Debug\AsyncTcpClient.pdb
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.FormClient.resources
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.Properties.Resources.resources
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.csproj.GenerateResource.Cache
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.exe
+c:\users\xhc\documents\visual studio 2010\Projects\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.pdb
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\bin\Debug\AsyncTcpClient.pdb
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.FormClient.resources
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.Properties.Resources.resources
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.csproj.GenerateResource.Cache
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.exe
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpClient\AsyncTcpClient\obj\x86\Debug\AsyncTcpClient.pdb

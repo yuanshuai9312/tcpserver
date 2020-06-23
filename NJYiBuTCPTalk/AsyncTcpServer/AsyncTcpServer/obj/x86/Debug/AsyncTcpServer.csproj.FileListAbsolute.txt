@@ -1,0 +1,25 @@
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\bin\Debug\AsyncTcpServer.exe
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\bin\Debug\AsyncTcpServer.pdb
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csprojResolveAssemblyReference.cache
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.FormServer.resources
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.Properties.Resources.resources
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csproj.GenerateResource.Cache
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.exe
+C:\Users\xhc\documents\visual studio 2010\Projects\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.pdb
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.exe
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.pdb
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\bin\Debug\AsyncTcpServer.exe
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\bin\Debug\AsyncTcpServer.pdb
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csprojResolveAssemblyReference.cache
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.FormServer.resources
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.Properties.Resources.resources
+E:\郝光明工作\工作\代码审核\10.15\第一个tcp\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csproj.GenerateResource.Cache
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\bin\Debug\AsyncTcpServer.exe
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\bin\Debug\AsyncTcpServer.pdb
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csprojAssemblyReference.cache
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.FormServer.resources
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.Properties.Resources.resources
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csproj.GenerateResource.cache
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.csproj.CoreCompileInputs.cache
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.exe
+D:\tcpip\NJYiBuTCPTalk\AsyncTcpServer\AsyncTcpServer\obj\x86\Debug\AsyncTcpServer.pdb
